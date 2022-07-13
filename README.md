@@ -1,4 +1,4 @@
-# ADOTE UM PET
+# GERADOR DE FRASE MOTIVACIONAL
 
 
 # 📄 Resumo do Projeto 📄
